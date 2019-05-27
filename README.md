@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-Mahasiswa Program Studi [Sistem Informasi](http://sif.uin-suska.ac.id/), Fakultas Sains dan Teknologi, [Universitas Islam Negeri Sultan Syarif Kasim](http://uin-suska.ac.id/), Riau  to maintain and preview the content for your website in Markdown files.
+Nama Saya Siti Syahidatul Helma, seorang Mahasiswa Program Studi [Sistem Informasi](http://sif.uin-suska.ac.id/), Fakultas Sains dan Teknologi, [Universitas Islam Negeri Sultan Syarif Kasim](http://uin-suska.ac.id/), Riau 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
